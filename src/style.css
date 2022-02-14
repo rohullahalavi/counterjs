@@ -1,0 +1,25 @@
+.counter-color {
+  background-color: #2f4f4f;
+}
+
+.header-bg {
+  background-color: #7952b3;
+}
+
+.sbg-dark {
+  background-color: #3e373e;
+}
+
+a {
+  color: #efefef !important;
+  font-weight: bold;
+  text-decoration: none !important;
+}
+
+.icon-class {
+    /* not shoing and make it invisible  */
+    display: none!important;
+
+
+}
+
